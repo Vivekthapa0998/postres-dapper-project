@@ -1,0 +1,8 @@
+C:\Users\Vivek.Thapa\Documents\GitHub\FinalDapperProject\REPO1\Presentation layer\obj\Debug\net6.0\Presentation layer.csproj.AssemblyReference.cache
+C:\Users\Vivek.Thapa\Documents\GitHub\FinalDapperProject\REPO1\Presentation layer\obj\Debug\net6.0\Presentation layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivek.Thapa\Documents\GitHub\FinalDapperProject\REPO1\Presentation layer\obj\Debug\net6.0\Presentation layer.AssemblyInfoInputs.cache
+C:\Users\Vivek.Thapa\Documents\GitHub\FinalDapperProject\REPO1\Presentation layer\obj\Debug\net6.0\Presentation layer.AssemblyInfo.cs
+C:\Users\Vivek.Thapa\Documents\GitHub\FinalDapperProject\REPO1\Presentation layer\obj\Debug\net6.0\Presentation layer.csproj.CoreCompileInputs.cache
+C:\Users\Vivek.Thapa\Documents\GitHub\FinalDapperProject\REPO1\Presentation layer\obj\Debug\net6.0\Presentation layer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vivek.Thapa\Documents\GitHub\FinalDapperProject\REPO1\Presentation layer\obj\Debug\net6.0\Presentation layer.RazorAssemblyInfo.cache
+C:\Users\Vivek.Thapa\Documents\GitHub\FinalDapperProject\REPO1\Presentation layer\obj\Debug\net6.0\Presentation layer.RazorAssemblyInfo.cs

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4dGKwgi+pqatUZOKb0HcXWQV+K27NawqOx2hwYDrv1XYIBhporDH732baZXMQ+HV9DIJ6bHis0GyYjZsrCp0sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vivek.Thapa\\Desktop\\dapper-orm-postgree\\REPO1\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vivek.Thapa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Vivek.Thapa\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\Vivek.Thapa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,37 @@
+﻿@model Model.Repository
+
+<form method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2>Create Repository</h2>
+            <hr />
+        </div>
+       
+        <div class="mb-3">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+            <br />
+            <label asp-for="Description"></label>
+            <input asp-for="Description" class="form-control" />
+            <span asp-validation-for="Description" class="text-danger"></span>
+            <br />
+            <label asp-for="Owner"></label>
+            <input asp-for="Owner" class="form-control" />
+            <span asp-validation-for="Owner" class="text-danger"></span>
+            <br />
+            
+            <input type="submit" value="Create" class="btn btn-primary" style="width:150px" />
+            <a asp-action="Index" asp-controller="Repoinfo" class="btn btn-primary" style="width:150px;">
+                Back to list
+            </a>
+        </div>
+
+    </div>
+</form>
+
+@section scripts{
+    @{
+        <partial name="_ValidationScriptsPartial.cshtml" />
+    }
+}
